@@ -176,3 +176,61 @@ p {
     transform: rotate(0);
   }
 }
+.btn-submit {
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  -webkit-box-shadow: 0px 1px 3px #000000;
+  -moz-box-shadow: 0px 1px 3px #000000;
+  box-shadow: 0px 1px 3px #000000;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  background: #34b8d9;
+  padding: 8px 29px 8px 28px;
+  border: solid #000000 1px;
+  text-decoration: none;
+}
+
+.btn-submit:hover {
+  background: #28cc19;
+  text-decoration: none;
+}
+.btn-chose {
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  -webkit-box-shadow: 0px 1px 3px #000000;
+  -moz-box-shadow: 0px 1px 3px #000000;
+  box-shadow: 0px 1px 3px #000000;
+  font-family: Courier New;
+  color: #000000;
+  font-size: 20px;
+  background: #ffffff;
+  padding: 4px 12px 2px 12px;
+  border: solid #000000 1px;
+  text-decoration: none;
+}
+
+.btn-chose:hover {
+  background: #1aaecc;
+  text-decoration: none;
+}
+.register {
+  text-decoration: none;
+  color: white;
+
+}
+.register:hover {
+  text-decoration: none;
+  color: black;
+}
+.soon {
+  text-decoration: none;
+  color: white;
+
+}
+.soon:hover {
+  text-decoration: none;
+  color: white;
+}
